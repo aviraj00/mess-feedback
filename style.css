@@ -1,0 +1,26 @@
+#main-carousel {
+  height: 90vh;
+}
+
+.text-center {
+    text-align: center;
+}
+
+#exp input {
+  position: absolute;
+  opacity: 0;
+  cursor: pointer;
+  height: 0;
+  width: 0;
+}
+.carousel-inner{
+  height: fit-content;
+}
+.display-2{
+  color: aqua;font-weight: bold;
+}
+.avi{
+  color: aqua;
+  font-weight: bolder;
+  font-size: 40px;
+}
